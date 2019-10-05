@@ -10,7 +10,7 @@ public class Motorcycle extends Vehicle {
 
     @Override
     public void printMyData() {
-
+//print data
         System.out.println("Employee has motorcycle");
         super.printMyData();
     }
